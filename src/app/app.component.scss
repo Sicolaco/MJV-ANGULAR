@@ -1,0 +1,89 @@
+
+
+h1{ 
+   color: rgb(52, 50, 50); 
+   font-family: 'Courier New', Courier, monospace;
+   font-style: oblique;
+   text-align: center;
+}
+#subtitle{
+    text-align: center;
+}
+#leftTitle1{
+    text-align: left;
+    height: 20px;
+    left: 350px;
+    top: 10px;
+    position: relative;
+    display: inline-block;
+}
+#rightTitle1{
+    text-align: left;
+    height: 20px;
+    left: 570px;
+    top: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+
+#leftBox1{
+    text-align: justify;
+    width: 350px;
+    height: 200px;
+    right: 100px;
+    top: 35px;
+    table-layout: auto;
+    position: relative;
+    display: inline-flex;
+}
+
+#rightBox1{
+    text-align: justify;
+    width: 350px;
+    height: 100px;
+    left: 6px;
+    top: 35px;
+    table-layout: auto;
+    position: relative;
+    display: inline-flex;
+}
+
+#leftTitle2{
+    text-align: left;
+    height: 20px;
+    left: 350px;
+    top: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+#rightTitle2{
+    text-align: left;
+    height: 20px;
+    right: 346px;
+    top: 226px;
+    position: relative;
+    display: inline-block;
+}
+
+#leftBox2{
+    text-align: justify;
+    width: 350px;
+    height: 200px;
+    left: 50px;
+    top: 45px;
+    table-layout: auto;
+    position: relative;
+    display: inline-flex;
+}
+#rightBox2{
+    text-align: justify;
+    width: 350px;
+    height: 100px;
+    right: -160px;
+    position:relative;
+    top: 45px;
+    table-layout: auto;
+    display: inline-flex;
+}
